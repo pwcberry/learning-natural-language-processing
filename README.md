@@ -10,10 +10,17 @@ Set up a local virtual environment:
 
 ```
 python -m venv ./env
+source bin/activate
 ```
 
 Install the packages:
 
 ```
 pip install -r requirements.txt
+```
+
+Start the notebook server:
+
+```
+jupyter notebook
 ```
