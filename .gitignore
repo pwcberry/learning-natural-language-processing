@@ -106,3 +106,8 @@ include/
 
 # mypy
 .mypy_cache/
+
+# Project
+.idea/
+.vscode/
+lesson_00/

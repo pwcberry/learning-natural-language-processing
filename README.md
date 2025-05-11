@@ -1,8 +1,8 @@
 # Learning Natural Language Processing
 
-In this project are files I worked on while following the O'Reilly course "Natural Language Processing From Scratch".
+In this project are files I worked on while following the O'Reilly course "Natural Language Processing From Scratch" from Pearson.
 
-The original repository for this course is at []().
+The course is located on the [O'Reilly Safari learning platform](https://learning.oreilly.com/course/natural-language-processing/9780135258842/). This code is derived from the repository on [Github](https://github.com/bmtgoncalves/FromScratch).
 
 ## Getting Started
 
@@ -25,7 +25,9 @@ Start the notebook server:
 jupyter notebook
 ```
 
-## References
+The files from the repo `FromScratch` are copied to the folder `lesson_00`.
+
+## References and further reading
 
 * [Natural Language Toolkit (nltk)](https://www.nltk.org/)
 * [Stopwords](https://www.ranks.nl/stopwords)
