@@ -1,6 +1,7 @@
 # Learning Natural Language Processing
 
-In this project are files I worked on while following the O'Reilly course "Natural Language Processing From Scratch" from Pearson.
+In this project are files I worked on while following the Pearson course "Natural Language Processing From Scratch". 
+The course is given by Bruno Goncalves.
 
 The course is located on the [O'Reilly Safari learning platform](https://learning.oreilly.com/course/natural-language-processing/9780135258842/). This code is derived from the repository on [Github](https://github.com/bmtgoncalves/FromScratch).
 
